@@ -16,7 +16,7 @@
 
 ## 📫 Let's Connect!  
 <p align="center">
-  <a href="linkedin.com/in/sham-dowaji">
+  []("linkedin.com/in/sham-dowaji")
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="shamrdowaji@gmail.com">
