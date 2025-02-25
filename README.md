@@ -8,4 +8,4 @@
 - Databases: MongoDB
 ## 📮 Let's Connect!
 if you are in Berlin or anywhere in the world 🌎, feel free to reach out:
--📩 shamrdowaji@gmail.com
+- 📩 shamrdowaji@gmail.com
