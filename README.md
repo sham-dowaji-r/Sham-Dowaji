@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </p>
 
-💻 Software Developer based in Berlin, Germany 🇩🇪  
+💻 Software Engineer | Web Developer based in Berlin, Germany 🇩🇪  
 🚀 Passionate about building scalable applications and learning new technologies.  
 
 ## 🔹 Tech Stack  
@@ -16,7 +16,7 @@
 
 ## 📫 Let's Connect!  
 <p align="center">
-  []("linkedin.com/in/sham-dowaji")
+  <a href"linkedin.com/in/sham-dowaji">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="shamrdowaji@gmail.com">
