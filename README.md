@@ -1,9 +1,5 @@
 # 👋 Hey, I'm Sham
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-</p>
-
 💻 Software Engineer | Web Developer based in Berlin, Germany 🇩🇪  
 🚀 Passionate about building scalable applications and learning new technologies.  
 
