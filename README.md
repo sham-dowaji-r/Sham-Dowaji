@@ -1,7 +1,6 @@
 # Welcome To My World 🙋‍♀️
 
-## My name is Sham and I'm a software engineer | web developer 👩‍💻
-### Based in Berlin, Germany.
+## My name is Sham and I'm a software engineer | web developer 👩‍💻, Based in Berlin, Germany.
 ## 🔷 Tech Stack:
 - Languages: JavaScript
 - Frontend: React
