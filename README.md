@@ -11,7 +11,7 @@
 </p>
 
 ## 📫 Let's Connect!  
-<p align="center">
+
   - [LinkedIn](https://www.linkedin.com/in/sham-dowaji?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiMNAo88wQpGnTMTQNd1POw%3D%3D)
 
-</p>
+
