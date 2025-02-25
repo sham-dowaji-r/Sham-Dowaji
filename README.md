@@ -12,10 +12,6 @@
 
 ## 📫 Let's Connect!  
 <p align="center">
-  <a href"linkedin.com/in/sham-dowaji">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="shamrdowaji@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  - [LinkedIn](https://www.linkedin.com/in/sham-dowaji?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiMNAo88wQpGnTMTQNd1POw%3D%3D)
+
 </p>
