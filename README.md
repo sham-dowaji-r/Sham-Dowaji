@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sham
 
-💻 Software Engineer | Web Developer based in Berlin, Germany 🇩🇪  
+💻 Software Engineer | Web Developer based in Berlin, Germany
 🚀 Passionate about building scalable applications and learning new technologies.  
 
 ## 🔹 Tech Stack  
