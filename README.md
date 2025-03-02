@@ -5,7 +5,7 @@
 ## My Skills:
 
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,github,git,vscode)](https://skillicons.dev)
 
 ## 📫 Let's Connect!  
 
