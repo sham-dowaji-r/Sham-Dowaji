@@ -5,9 +5,7 @@
 
 ## 🔹 Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-⚡️-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-⚛️-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-🟢-green?style=flat-square" />
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 ## 📫 Let's Connect!  
