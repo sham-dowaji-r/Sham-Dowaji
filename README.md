@@ -9,6 +9,6 @@
 
 ## 📫 Let's Connect!  
 
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/sham-dowaji)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sham-dowaji)
 
 
